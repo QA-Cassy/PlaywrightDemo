@@ -60,7 +60,6 @@ await page.getByRole('button', { name: 'LOGIN' }).click();
 
 //Added test comment by Cassy 1 
 
-    //Added test comment by Cassy 2
-    //Added test comment by Cassy 3
+  
   });
 });
